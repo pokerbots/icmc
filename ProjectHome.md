@@ -1,0 +1,1 @@
+This class calculate players equities in tournament based on their chip amount using the Independent Chip Model.
